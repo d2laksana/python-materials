@@ -25,4 +25,19 @@ Selagi algoritma tersebut dapat menyelesaikan permasalahan dan dimengerti oleh p
 
 Algoritma menjadi panduan programmer dalam menuliskan kode program.
 
+## Contoh Algoritma
+Berikut beberapa contoh algoritma.
+
+### Contoh 1
+Algoritma menjumlahkan dua bilangan:
+```
+Langkah 1 - MULAI
+Langkah 2 - Deklarasikan 3 variabel bilangan a, b, dan c
+Langkah 3 - Tentukan nilai a dan b
+Langkah 4 - tambahkan nilai a dan b
+Langkah 5 - simpan output Langkah 4 ke variabel c
+Langkah 6 - Tampilkan c
+Langkah 7 - SELESAI
+```
+
 [1]: https://id.wikipedia.org/wiki/Mu%E1%B8%A5ammad_bin_M%C5%ABs%C4%81_al-Khaw%C4%81rizm%C4%AB

@@ -28,7 +28,7 @@ Algoritma menjadi panduan programmer dalam menuliskan kode program.
 ## Contoh Algoritma
 Berikut beberapa contoh algoritma.
 
-### Contoh 1. Algoritma menjumlahkan dua bilangan
+#### Contoh 1. Algoritma menjumlahkan dua bilangan
 ```
 Langkah 1 - MULAI
 Langkah 2 - Deklarasikan 3 variabel bilangan a, b, dan c
@@ -63,7 +63,7 @@ Langkah 5 - JIKA TIDAK, MAKA
 Langkah 6 - SELESAI
 ```
 
-### Contoh 4. Algoritma harga barang setelah diskon
+### Contoh 3. Algoritma harga barang setelah diskon
 Diketahui besar diskon yaitu 7%.
 ```
 1. MULAI

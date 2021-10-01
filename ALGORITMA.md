@@ -63,5 +63,15 @@ Langkah 5 - JIKA TIDAK, MAKA
 Langkah 6 - SELESAI
 ```
 
+### Contoh 4. Algoritma harga barang setelah diskon
+Diketahui besar diskon yaitu 7%.
+```
+1. MULAI
+2. Deklarasikan variabel bilangan harga_barang, diskon = 0.07, harga_akhir
+3. Input harga_barang
+4. Hitung harga_akhir = harga_barang - (harga_barang * diskon)
+5. Cetak "Harga akhir = " + harga_akhir
+```
+
 
 [1]: https://id.wikipedia.org/wiki/Mu%E1%B8%A5ammad_bin_M%C5%ABs%C4%81_al-Khaw%C4%81rizm%C4%AB

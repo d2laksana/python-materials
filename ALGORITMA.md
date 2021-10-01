@@ -28,7 +28,7 @@ Algoritma menjadi panduan programmer dalam menuliskan kode program.
 ## Contoh Algoritma
 Berikut beberapa contoh algoritma.
 
-### Contoh 1. Algoritma menjumlahkan dua bilangan:
+### Contoh 1. Algoritma menjumlahkan dua bilangan
 ```
 Langkah 1 - MULAI
 Langkah 2 - Deklarasikan 3 variabel bilangan a, b, dan c
@@ -38,5 +38,18 @@ Langkah 5 - simpan output Langkah 4 ke variabel c
 Langkah 6 - Tampilkan c
 Langkah 7 - SELESAI
 ```
+
+### Contoh 2. Algoritma menghitung luas segitiga
+```
+Langkah 1 - MULAI
+Langkah 2 - Deklarasikan 3 variabel bilangan phi, r, dan luas
+Langkah 3 - Atur nilai phi menjadi 3.14
+Langkah 4 - tentukan r
+Langkah 5 - hitung phi kali r kali r
+Langkah 6 - Simpan output Langkah 5 ke variabel luas
+Langkah 7 - Cetak variabel luas
+Langkah 8 - SELESAI
+```
+
 
 [1]: https://id.wikipedia.org/wiki/Mu%E1%B8%A5ammad_bin_M%C5%ABs%C4%81_al-Khaw%C4%81rizm%C4%AB

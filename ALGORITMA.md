@@ -4,7 +4,7 @@
 
 Pada awalnya, algoritma ini merujuk pada langkah-langkah untuk menyelesaikan permasalahan aritmatika dan persamaan kuadrat secara sistematis. Hal ini menjadi dasar algoritma modern untuk memecahkan permasalahan lain dengan perhitungan yang efektif atau metode efektif.
 
-> Algoritma merupakan serangkaian instruksi atau langkah-langkah sistematis untuk memecahkan masalah tertentu. 
+> **Algoritma** merupakan serangkaian instruksi atau langkah-langkah sistematis untuk memecahkan masalah tertentu. 
 
 Dalam aktivitas pemrograman, algoritma seringkali dianggap sebagai logika dalam penentuan program yang akan dibuat.
 
@@ -19,5 +19,10 @@ Pada umumnya, penulisan algoritma tidak merujuk pada bahasa pemrograman tertentu
 * **Independen** - Tidak merujuk pada bahasa pemrograman tertentu.
 
 ## Penulisan Algoritma
+> Algoritma tidak memiliki standar penulisan yang pasti.
+
+Selagi algoritma tersebut dapat menyelesaikan permasalahan dan dimengerti oleh programmer lain, maka algoritma tersebut dapat diterima.
+
+Algoritma menjadi panduan programmer dalam menuliskan kode program.
 
 [1]: https://id.wikipedia.org/wiki/Mu%E1%B8%A5ammad_bin_M%C5%ABs%C4%81_al-Khaw%C4%81rizm%C4%AB

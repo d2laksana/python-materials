@@ -50,6 +50,7 @@ Langkah 6 - Simpan output Langkah 5 ke variabel luas
 Langkah 7 - Cetak variabel luas
 Langkah 8 - SELESAI
 ```
+
 ### Contoh 3. Algoritma menentukan bilangan ganap/ganjil
 ```
 Langkah 1 - MULAI

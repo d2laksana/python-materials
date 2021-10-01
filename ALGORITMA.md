@@ -50,6 +50,17 @@ Langkah 6 - Simpan output Langkah 5 ke variabel luas
 Langkah 7 - Cetak variabel luas
 Langkah 8 - SELESAI
 ```
+### Contoh 3. Algoritma menentukan bilangan ganap/ganjil
+```
+Langkah 1 - MULAI
+Langkah 2 - Deklarasikan variabel bilangan n
+Langkah 3 - Tentukan nilai n
+Langkah 4 - JIKA n % 2 sama dengan 0, MAKA
+                Cetak n + " adalah bilangan Genap"
+Langkah 5 - JIKA TIDAK MAKA
+                Cetak n + " adalah bilangan Ganjil"
+Langkah 6 - SELESAI
+```
 
 
 [1]: https://id.wikipedia.org/wiki/Mu%E1%B8%A5ammad_bin_M%C5%ABs%C4%81_al-Khaw%C4%81rizm%C4%AB

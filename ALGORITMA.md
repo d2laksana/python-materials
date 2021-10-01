@@ -1,3 +1,3 @@
-<h1 align="center" style="font-weight: bold;">Algoritma</h1>
+<p align="center" style="font-size: 2em;font-weight: bold;">Algoritma</p>
 
 ## Tentang Algoritma

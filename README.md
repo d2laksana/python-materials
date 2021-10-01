@@ -16,12 +16,12 @@ Proses instalasi pada Windows:
 1. Buka file installer yang sudah selesai diunduh,
 2. Ikuti langkah instalasi sampai selesai,
 3. Coba apakah Python berhasil terinstal dengan menjalankan perintah `python` pada Command Prompt. Jika muncul tampilan berisi versi Python seperti berikut, maka instalasi Python berhasil.
-```
-Python 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license" for more information.
->>>
-```
-Pesan di atas menunjukkan versi Python yang terinstal adalah `3.8.10`.
+    ```
+    Python 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)] on win32
+    Type "help", "copyright", "credits" or "license" for more information.
+    >>>
+    ```
+    Pesan di atas menunjukkan versi Python yang terinstal adalah `3.8.10`.
 
 Coba jalankan fungsi `print()` pada jendela Command Prompt tersebut.
 ```python

@@ -71,6 +71,7 @@ Diketahui besar diskon yaitu 7%.
 3. Input harga_barang
 4. Hitung harga_akhir = harga_barang - (harga_barang * diskon)
 5. Cetak "Harga akhir = " + harga_akhir
+6. SELESAI
 ```
 
 

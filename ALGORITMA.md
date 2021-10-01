@@ -1,3 +1,2 @@
-<p align="center" style="font-size: 2em;font-weight: bold;">Algoritma</p>
-
+# Algoritma
 ## Tentang Algoritma

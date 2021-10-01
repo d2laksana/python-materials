@@ -4,12 +4,10 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://www.python.org/ftp/python/3.9.7/python-3.9.7-amd64.exe"><img src="https://img.shields.io/badge/Last%20version-v3.9.7-blue" alt="python download"></a>
+  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Last%20version-v3.9.7-blue" alt="python download"></a>
 </p>
 
 Python adalah bahasa pemrograman interpretatif multiguna. Python dirancang oleh [Guido van Rossum][1] pada tahun 1991 dan saat ini Python masih dikembangkan oleh [Python Software Foundation][2]. Python memiliki sintaks penulisan yang lebih singkat dan mudah dipahami. Hal ini membuat Python mudah untuk dipelajari baik untuk pemula maupun yang sudah menguasai bahasa pemrograman lain.
-
-Bahasa Python mendukung hampir semua [sistem operasi][3] (_cross-platform_). Saat ini Python digunakan pada pengembangan _web_, _data science_, _machine learning_, perangkat IoT, _software prototypes_, dan masih banyak lagi.
 
 ## Instalasi Python di Windows
 Versi terakhir saat ini `3.9.7` dan dapat diunduh pada laman resmi [Python][4].
@@ -26,8 +24,8 @@ Type "help", "copyright", "credits" or "license" for more information.
 Pesan di atas menunjukkan versi Python yang terinstal adalah `3.8.10`.
 
 Coba jalankan fungsi `print()` pada jendela Command Prompt tersebut.
-```
->>> print("Hello world")
+```python
+print("Hello world")
 ```
 Apa pesan yang ditampilkan?
 

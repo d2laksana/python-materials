@@ -6,7 +6,8 @@
 
 ## Table of Contents
 1. [Algoritma, Pesudocode, dan Flowchart](#)
-    * [Algoritma](ALGORITMA.md)
+    * [Algoritma 1](ALGORITMA.md)
+    * [Algoritma 2 - Control Flow](ALGORITMA-2.md)
     * [Pseudocode](PSEUDOCODE.md)
     * [Flowchart](FLOWCHART.md)
 2. [Pengenalan Python](BASIC-PYTHON.md)

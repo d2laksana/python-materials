@@ -33,37 +33,25 @@ Berikut beberapa contoh algoritma.
 Langkah 1 - MULAI
 Langkah 2 - Deklarasikan 3 variabel bilangan a, b, dan c
 Langkah 3 - Tentukan nilai a dan b
-Langkah 4 - tambahkan nilai a dan b
-Langkah 5 - simpan output Langkah 4 ke variabel c
+Langkah 4 - Tambahkan nilai a dan b
+Langkah 5 - Simpan output Langkah 4 ke variabel c
 Langkah 6 - Tampilkan c
 Langkah 7 - SELESAI
 ```
 
-### Contoh 2. Algoritma menghitung luas segitiga
+#### Contoh 2. Algoritma menghitung luas segitiga
 ```
 Langkah 1 - MULAI
 Langkah 2 - Deklarasikan 3 variabel bilangan phi, r, dan luas
 Langkah 3 - Atur nilai phi menjadi 3.14
-Langkah 4 - tentukan r
-Langkah 5 - hitung phi kali r kali r
+Langkah 4 - Tentukan r
+Langkah 5 - Hitung phi kali r kali r
 Langkah 6 - Simpan output Langkah 5 ke variabel luas
 Langkah 7 - Cetak variabel luas
 Langkah 8 - SELESAI
 ```
 
-### Contoh 3. Algoritma menentukan bilangan ganap/ganjil
-```
-Langkah 1 - MULAI
-Langkah 2 - Deklarasikan variabel bilangan n
-Langkah 3 - Tentukan nilai n
-Langkah 4 - JIKA n % 2 sama dengan 0, MAKA
-                Cetak n + " adalah bilangan Genap"
-Langkah 5 - JIKA TIDAK, MAKA
-                Cetak n + " adalah bilangan Ganjil"
-Langkah 6 - SELESAI
-```
-
-### Contoh 3. Algoritma harga barang setelah diskon
+#### Contoh 3. Algoritma harga barang setelah diskon
 Diketahui besar diskon yaitu 7%.
 ```
 1. MULAI

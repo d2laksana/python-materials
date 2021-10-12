@@ -1,0 +1,5 @@
+print("#"*103)
+print("# Nama Lengkap   : Nur Wahid                                                                          #")
+print("# NPM            : 5170411146                                                                         #")
+print("# Alamat Lengkap : Desa Jayalaksana blok kitana kidul Rt.38 Rw.08 Kec.Kedokanbunder Kab.Indramayu     #")
+print("#"*103)

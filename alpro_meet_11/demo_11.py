@@ -10,7 +10,8 @@ def dict_factory(cursor, row):
 
 # Init database
 with sqlite3.connect("db/akademik_db.db") as db:
-    # db.row_factory = dict_factory
+    # Ubah struktur baris jadi dictionary
+    db.row_factory = dict_factory
     cursor = db.cursor()
 
 
@@ -25,7 +26,8 @@ cursor.execute('''CREATE TABLE IF NOT EXISTS `mahasiswa` (
 	`jenis_sekolah` CHAR,
 	`status_sekolah` CHAR,
 	`ipk_semester_1` REAL,
-	`ipk_semester_2` REAL
+	`ipk_semester_2` REAL,
+    'rata_rata_ipk' AS ((ipk_semester_1 + ipk_semester_2) / 2) STORED
 );''')
 
 # Tambah data 1
@@ -49,6 +51,19 @@ db.commit()
 cursor.execute('''SELECT * FROM `mahasiswa`;''')
 for row in cursor.fetchall():
     print(row)
+
+# Rata-rata ipk kelas
+cursor.execute('''SELECT avg(rata_rata_ipk) FROM mahasiswa;''')
+for row in cursor.fetchall():
+    print("Rata-rata kelas :", row)
+
+cursor.execute('''SELECT max(rata_rata_ipk) FROM mahasiswa;''')
+for row in cursor.fetchall():
+    print("Rata-rata tertinggi :", row)
+
+cursor.execute('''SELECT min(rata_rata_ipk) FROM mahasiswa;''')
+for row in cursor.fetchall():
+    print("Rata-rata terendah :", row)
 
 
 # Update berdasarkan npm atau id
@@ -114,9 +129,9 @@ print()
 cursor.execute('''SELECT nama, 
     ipk_semester_1,
     ipk_semester_2,
-    (ipk_semester_1 + ipk_semester_2) / 2 AS rata_rata 
-    FROM `mahasiswa`;''')
+    rata_rata_ipk
+FROM `mahasiswa`;''')
 for row in cursor.fetchall():
-    print(row)
+    print(row["rata_rata_ipk"])
 
 db.close()
